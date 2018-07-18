@@ -1,0 +1,11 @@
+{
+	"repositories": 
+	[{
+		"url": "https://USER:PASSWORD@bitbucket.org/USER/GITNAME.git", 
+		"path": "/home/public_html/...."
+	},
+	{
+	    "url": "https://USER:PASSWORD@bitbucket.org/USER/GITNAME.git", 
+		"path": "/home/public_html/...."
+	}]
+}
